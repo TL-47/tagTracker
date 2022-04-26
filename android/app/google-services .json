@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148158777934",
+    "project_id": "tagtracker-89bc2",
+    "storage_bucket": "tagtracker-89bc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148158777934:android:90cd2f4af37edea613d11f",
+        "android_client_info": {
+          "package_name": "com.pauldemarco.tagTracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148158777934-d6ch7tllugi2q3lm002j6hhr8hqip7l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_4-adMxqeQd4PtdewO81gfCwjSxld39g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148158777934-d6ch7tllugi2q3lm002j6hhr8hqip7l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
